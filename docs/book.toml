@@ -1,0 +1,6 @@
+[book]
+authors = ["cold-briu"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Eas Schema Creator Docs"
